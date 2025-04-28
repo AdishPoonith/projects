@@ -1,2 +1,0 @@
-Student Number: <student-number>
-desc_FT.model.wv.vectors_ngrams.npy.zip file: https://rmiteduau-my.sharepoint.com/:u:/r/personal/s3970304_student_rmit_edu_au/Documents/desc_FT.model.wv.vectors_ngrams.npy.zip?csf=1&web=1&e=DmaY1U
