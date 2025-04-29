@@ -1,0 +1,16 @@
+package u4;
+/* loaded from: classes.dex */
+public final class a {
+
+    /* renamed from: a  reason: collision with root package name */
+    private final k4.b f19036a;
+
+    /* JADX INFO: Access modifiers changed from: package-private */
+    public a(k4.b bVar) {
+        this.f19036a = (k4.b) c4.s.j(bVar);
+    }
+
+    public final k4.b a() {
+        return this.f19036a;
+    }
+}

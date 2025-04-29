@@ -1,0 +1,68 @@
+version: 2.9.3
+apkFileName: Car_Rental.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 21
+  targetSdkVersion: 33
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 1
+  versionName: 1.0.0
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  DebugProbesKt.bin: 8
+  firebase-annotations.properties: 8
+  firebase-auth-interop.properties: 8
+  firebase-auth.properties: 8
+  firebase-components.properties: 8
+  firebase-database-collection.properties: 8
+  integrity.properties: 8
+  kotlin-tooling-metadata.json: 8
+  play-services-auth-api-phone.properties: 8
+  play-services-auth-base.properties: 8
+  play-services-auth.properties: 8
+  play-services-base.properties: 8
+  play-services-basement.properties: 8
+  play-services-fido.properties: 8
+  play-services-location.properties: 8
+  play-services-maps.properties: 8
+  play-services-tasks.properties: 8
+  protolite-well-known-types.properties: 8
+  recaptcha.properties: 8
+  google/apphosting/datastore/testing/datastore_test_trace.proto: 8
+  google/firebase/firestore/proto/bundle.proto: 8
+  google/firebase/firestore/proto/maybe_document.proto: 8
+  google/firebase/firestore/proto/mutation.proto: 8
+  google/firebase/firestore/proto/target.proto: 8
+  google/firestore/admin/index.proto: 8
+  google/firestore/v1/aggregation_result.proto: 8
+  google/firestore/v1/common.proto: 8
+  google/firestore/v1/document.proto: 8
+  google/firestore/v1/firestore.proto: 8
+  google/firestore/v1/query.proto: 8
+  google/firestore/v1/write.proto: 8
+  google/protobuf/any.proto: 8
+  google/protobuf/api.proto: 8
+  google/protobuf/duration.proto: 8
+  google/protobuf/empty.proto: 8
+  google/protobuf/field_mask.proto: 8
+  google/protobuf/source_context.proto: 8
+  google/protobuf/struct.proto: 8
+  google/protobuf/timestamp.proto: 8
+  google/protobuf/type.proto: 8
+  google/protobuf/wrappers.proto: 8
+doNotCompress:
+- resources.arsc
+- assets/dexopt/baseline.prof
+- assets/dexopt/baseline.profm
+- jpg
+- png
+- mp4

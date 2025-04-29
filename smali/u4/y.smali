@@ -1,0 +1,31 @@
+.class final Lu4/y;
+.super Lv4/m;
+.source "SourceFile"
+
+
+# instance fields
+.field final synthetic a:Lu4/c$h;
+
+
+# direct methods
+.method constructor <init>(Lu4/c;Lu4/c$h;)V
+    .locals 0
+
+    iput-object p2, p0, Lu4/y;->a:Lu4/c$h;
+
+    invoke-direct {p0}, Lv4/m;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final s(Lcom/google/android/gms/maps/model/LatLng;)V
+    .locals 1
+
+    iget-object v0, p0, Lu4/y;->a:Lu4/c$h;
+
+    invoke-interface {v0, p1}, Lu4/c$h;->P(Lcom/google/android/gms/maps/model/LatLng;)V
+
+    return-void
+.end method
